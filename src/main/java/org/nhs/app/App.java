@@ -1,8 +1,52 @@
-/*----------------------------------------------------------------------------------------
- * Copyright (c) Microsoft Corporation. All rights reserved.
- * Licensed under the MIT License. See LICENSE in the project root for license information.
- *---------------------------------------------------------------------------------------*/
+public class App 
+{
 
-package org.nhs.app;
+    public static void main (String args[]) 
+    {
+        /*
+        for (int i = 1; i <= 5; i++)
+        {
+            for (int x = 1; x <= z; x++) 
+            {
+                System.out.print(i);
+            }
+            System.out.println();
+        }
+        
+        for (int i = 1; i <= 5; i++) 
+        {
+            for (int d = 1; d <= i; d++) 
+            {
+                System.out.print(i);
+            }
+            System.out.println();
+        }
 
-// Your code goes here
+        for (int i = 1; i <= 5; i++) 
+        {
+            for (int d = 4; d >= i; d--) 
+            {
+                System.out.print(" ");
+            }
+            for (int d = 1; d <= i; d++) 
+            {
+                System.out.print(i);
+            }
+            System.out.println();
+        }
+        for (int i = 1; i <= 5; i++) 
+        {
+            for (int x = 4; x >= i; x--) 
+            {
+                System.out.print(".");
+            }
+            System.out.print(i);
+            for (int x = 1; x < i; x++)
+            {
+                System.out.print(".");
+            }
+            System.out.println();
+        
+        }
+      */
+}
